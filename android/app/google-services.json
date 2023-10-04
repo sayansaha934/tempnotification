@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307395423759",
+    "project_id": "pushnotification-6c1ce",
+    "storage_bucket": "pushnotification-6c1ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307395423759:android:5d2f91f625e1fcf1973d7a",
+        "android_client_info": {
+          "package_name": "com.tempnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApqcbsdwYYRmsksqupSsprUUo5msfeU1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
